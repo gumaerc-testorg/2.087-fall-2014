@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the information regarding 2.087 Engineering Math,
   Homework 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/878ac4a0326d150f3dd081d2d3dc5769_MIT2_087F14_Homework2.pdf
+file: /media/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/878ac4a0326d150f3dd081d2d3dc5769_MIT2_087F14_Homework2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 2.087 Engineering Math, Homework 2
 uid: 878ac4a0-326d-150f-3dd0-81d2d3dc5769

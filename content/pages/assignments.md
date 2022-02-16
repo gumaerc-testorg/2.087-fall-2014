@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ab798195-6493-ac6f-f7e9-94d58051212e
 ---
@@ -60,4 +63,4 @@ HOMEWORK ASSIGNMENTS
 
 {{< tableclose >}}
 
-_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB® software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html) directly.
+_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB{{< sup "®" >}} software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html) directly.

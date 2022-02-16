@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 374078f8-287c-fd03-32a1-99c495236347
 ---
@@ -14,7 +16,7 @@ Recitations: 1 session / week, 1.5 hours / session
 Course Description
 ------------------
 
-This course is about the mathematics that is most widely used in the mechanical engineering core subjects: An introduction to linear algebra and ordinary differential equations (ODEs), including general numerical approaches to solving systems of equations. Topics covered include linear systems of equations, existence and uniqueness of solutions, Gaussian elimination. Initial value problems, 1st and 2nd order systems, forward and backward Euler, and the Runge-Kutta method (RK4). The course also covers eigenproblems: eigenvalues and eigenvectors, including complex numbers, functions, vectors and matrices. MATLAB® is used in this course.
+This course is about the mathematics that is most widely used in the mechanical engineering core subjects: An introduction to linear algebra and ordinary differential equations (ODEs), including general numerical approaches to solving systems of equations. Topics covered include linear systems of equations, existence and uniqueness of solutions, Gaussian elimination. Initial value problems, 1st and 2nd order systems, forward and backward Euler, and the Runge-Kutta method (RK4). The course also covers eigenproblems: eigenvalues and eigenvectors, including complex numbers, functions, vectors and matrices. MATLAB{{< sup "®" >}} is used in this course.
 
 _Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://in.mathworks.com/index.html) directly.
 

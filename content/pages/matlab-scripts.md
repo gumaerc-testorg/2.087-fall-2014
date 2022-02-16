@@ -1,10 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: MATLAB Scripts
 uid: 6089d1d5-b454-6659-9dbb-b660dace0101
 ---
 
-These are additional MATLAB® scripts that were used in the course.
+These are additional MATLAB{{< sup "®" >}} scripts that were used in the course.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -79,4 +81,4 @@ An example of eigenvalues and eigenvectors
 
 {{< tableclose >}}
 
-_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html) directly.
+_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html) directly.
