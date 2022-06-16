@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/46c3390b74af9a48fa2b541b921a65e5_aFx8dVLkrWs.pdf
+file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/46c3390b74af9a48fa2b541b921a65e5_aFx8dVLkrWs.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

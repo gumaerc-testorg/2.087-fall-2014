@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbook, grading, and late policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,12 +28,12 @@ Textbook
 Strang, Gilbert. _Differential Equations and Linear Algebra_. Wellesley-Cambridge. 2014.
 
   
-See [the website for Prof. Strang's textbook](http://math.mit.edu/~gs/dela/) for more information, including samples of the text. In 2016, the textbook was developed into a series of 55 short videos, _[Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015)_.
+See [the website for Prof. Strang's textbook](http://math.mit.edu/~gs/dela/) for more information, including samples of the text. In 2016, the textbook was developed into a series of 55 short videos, _[Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015)_.
 
 Grading
 -------
 
-Students can calculate their grade [with this MATLAB script. (M)]({{< baseurl >}}/resources/gradecalculatormatlabscript)
+Students can calculate their grade {{% resource_link f40f5316-a865-f512-423c-abc8837ea656 "with this MATLAB script. (M)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
