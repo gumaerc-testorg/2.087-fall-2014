@@ -5,6 +5,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: plane_fall_v3.m
 uid: bf8219db-a63e-fd7d-0c6d-b0069de35824
 ---
 This is the special file regarding plane fall.
-

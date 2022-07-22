@@ -5,6 +5,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HW5_prob4v4.m
 uid: b297f887-6a97-04f3-710b-8e7f69ef6485
 ---
 This is the special file regarding homework 5 problem 4.
-

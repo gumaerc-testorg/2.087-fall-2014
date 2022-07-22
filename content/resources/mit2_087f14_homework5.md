@@ -6,6 +6,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.087 Engineering Math, Homework 5
 uid: e68ee9f8-cb61-2c4e-aee5-a170faf7c644
 ---
 This file contains the information regarding 2.087 Engineering Math, Homework 5.
-

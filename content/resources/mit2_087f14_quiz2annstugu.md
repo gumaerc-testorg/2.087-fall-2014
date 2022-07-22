@@ -6,6 +6,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.087 Engineering Math, Quiz 2 Announcement and Study Guide
 uid: 7a942409-8333-87d8-06ea-55af75652ea0
 ---
 This file contains the information regarding engineering math, quiz 2 announcement and study guide.
-

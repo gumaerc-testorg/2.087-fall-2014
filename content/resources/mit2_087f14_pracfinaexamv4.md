@@ -6,6 +6,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.087 Engineering Math, Practice Final Exam
 uid: 8bb5bc6e-2ff5-3f00-0a3e-6d04c8e55130
 ---
 This file contains the information regarding engineering math, practice final exam.
-

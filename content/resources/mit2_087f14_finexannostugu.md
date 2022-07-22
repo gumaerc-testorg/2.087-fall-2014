@@ -6,6 +6,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.087 Engineering Math, Final Exam Announcement and Study Guide
 uid: c847d8f1-6bbd-4246-06fb-a3e47d25d5bd
 ---
 This file contains the information regarding  engineering math, final exam announcement and study guide.
-

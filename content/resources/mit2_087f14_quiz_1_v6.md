@@ -5,6 +5,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.087 Engineering Math, Quiz 1
 uid: 75a62d57-dc6b-c446-4ae9-bf658c698053
 ---
 This file contains the information regarding engineering math, quiz 1.
-

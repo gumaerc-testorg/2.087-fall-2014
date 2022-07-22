@@ -6,6 +6,7 @@ file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-
 file_type: text/x-objcsrc
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: practice_exam.m
 uid: ea968e83-115d-540a-66f0-bdb55b57a703
 ---
 This is the special file regarding Solution Code for the Practice Final Exam (M).
-
