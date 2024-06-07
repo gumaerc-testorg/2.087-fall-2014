@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding engineering math, practice
   quiz 1.
 file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/572bfd910c2166d2dd3ad3f281d943d8_MIT2_087F14_PracQuiz_1_v4.pdf
+file_size: 203713
 file_type: application/pdf
 learning_resource_types:
 - Exams
