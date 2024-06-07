@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding engineering math, practice
   final exam.
 file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/8bb5bc6e2ff53f000a3e6d04c8e55130_MIT2_087F14_PracFinaexamv4.pdf
+file_size: 299365
 file_type: application/pdf
 learning_resource_types:
 - Exams

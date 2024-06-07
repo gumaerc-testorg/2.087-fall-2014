@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/873c90c65fede41a750fd3a8ab6f6b30_xvTYUnqn2wY.srt
+file_size: 83755
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
