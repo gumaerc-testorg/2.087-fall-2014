@@ -2,7 +2,7 @@
 content_type: resource
 description: This is the special file regarding Solution Code for the Practice Final
   Exam (M).
-file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/ea968e83115d540a66f0bdb55b57a703_practice_exam.m
+file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/ea968e83115d540a66f0bdb55b57a703_practice_exam.m
 file_size: 2367
 file_type: text/x-objcsrc
 learning_resource_types:
