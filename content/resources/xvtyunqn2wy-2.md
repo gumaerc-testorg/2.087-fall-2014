@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/d7583607c7ec52a1a3ca22ff0a12a758_xvTYUnqn2wY.vtt
+file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/d7583607c7ec52a1a3ca22ff0a12a758_xvTYUnqn2wY.vtt
 file_size: 79155
 file_type: application/x-subrip
 learning_resource_types: []
