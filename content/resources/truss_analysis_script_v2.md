@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding truss analysis script.
-file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/98c8bffa95b2ee9808705d84212a64a4_Truss_Analysis_Script_v2.m
+file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/98c8bffa95b2ee9808705d84212a64a4_Truss_Analysis_Script_v2.m
 file_size: 2425
 file_type: text/x-objcsrc
 learning_resource_types: []

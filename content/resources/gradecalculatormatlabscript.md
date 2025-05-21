@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A MATLAB script to calculate the final grade.
-file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/f40f5316a865f512423cabc8837ea656_GradeCalculatorMATLABScript.m
+file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/f40f5316a865f512423cabc8837ea656_GradeCalculatorMATLABScript.m
 file_size: 2201
 file_type: text/x-objcsrc
 learning_resource_types: []

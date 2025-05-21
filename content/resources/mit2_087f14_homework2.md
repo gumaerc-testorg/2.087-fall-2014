@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding 2.087 Engineering Math,
   Homework 2.
-file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/878ac4a0326d150f3dd081d2d3dc5769_MIT2_087F14_Homework2.pdf
+file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/878ac4a0326d150f3dd081d2d3dc5769_MIT2_087F14_Homework2.pdf
 file_size: 369263
 file_type: application/pdf
 learning_resource_types:

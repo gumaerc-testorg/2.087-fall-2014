@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding circuit.
-file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/a049ba136a1e7838e881202165aec65a_circuit.m
+file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/a049ba136a1e7838e881202165aec65a_circuit.m
 file_size: 424
 file_type: text/x-objcsrc
 learning_resource_types: []
