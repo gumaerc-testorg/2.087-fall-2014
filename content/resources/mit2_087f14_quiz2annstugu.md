@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding engineering math, quiz 2
   announcement and study guide.
-file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/7a942409833387d806ea55af75652ea0_MIT2_087F14_Quiz2AnnStuGu.pdf
+file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/7a942409833387d806ea55af75652ea0_MIT2_087F14_Quiz2AnnStuGu.pdf
 file_size: 154967
 file_type: application/pdf
 learning_resource_types:
