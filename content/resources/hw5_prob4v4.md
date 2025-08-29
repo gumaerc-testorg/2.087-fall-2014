@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding homework 5 problem 4.
-file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/b297f8876a9704f3710b8e7f69ef6485_HW5_prob4v4.m
+file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/b297f8876a9704f3710b8e7f69ef6485_HW5_prob4v4.m
 file_size: 1048
 file_type: text/x-objcsrc
 learning_resource_types:

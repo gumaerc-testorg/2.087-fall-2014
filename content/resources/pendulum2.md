@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding Pendulum2.m.
-file: /courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/928aed6693ca51b225ea0af7af0a2709_pendulum2.m
+file: /ol-ocw-studio-app/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/928aed6693ca51b225ea0af7af0a2709_pendulum2.m
 file_size: 865
 file_type: text/x-objcsrc
 learning_resource_types:
